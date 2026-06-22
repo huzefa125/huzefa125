@@ -1,7 +1,12 @@
-<h1 align="center">👋 Hi, I'm Shaikh Huzefa</h1>
+<h1 align="center">👋 Hi, I'm Shaikh M Huzef</h1>
+
 <h3 align="center">
-  Frontend Developer • MERN Stack Enthusiast • UI-Focused Builder
+Full Stack Developer • MERN Stack Developer • SaaS Builder
 </h3>
+
+<p align="center">
+Building scalable web applications, business solutions, and modern digital experiences.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=huzefa125&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -9,96 +14,128 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-I’m a **Frontend Developer** passionate about building clean, scalable, and user-friendly web applications.
+I'm a passionate **Full Stack Developer** from Ahmedabad, India, focused on creating scalable web applications and solving real-world business problems through technology.
 
-- 🌱 Currently learning **React, Node.js & REST APIs**
-- 💡 Love creating **modern, fast & responsive UIs**
-- 🎯 Focused on **clean design, reusable components & performance**
-- 💬 Ask me about **Frontend, MERN Stack & UI/UX**
-- 📫 Email: **[huzafahuzafa63@gmail.com](mailto:huzafahuzafa63@gmail.com)**
-- ⚡ Fun fact: I enjoy turning real-world problems into code solutions
+* 🎓 Bachelor of Computer Applications (BCA)
+* 💻 Specialized in MERN Stack Development
+* 🚀 Building SaaS products and business platforms
+* 🌱 Exploring NestJS, PostgreSQL, Prisma & System Design
+* ⚡ Strong focus on Performance, Scalability & Clean Architecture
+* 🤝 Open to Freelance Projects and Collaborations
+* 📫 Email: **[huzafahuzafa63@gmail.com](mailto:huzafahuzafa63@gmail.com)**
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/gaminghuzefa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="35" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/huzefahuzefa63" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
+  <a href="https://linkedin.com/in/huzefa125">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:huzafahuzafa63@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/huzefa125" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+  <a href="https://instagram.com/huzefahuzefa63">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/gaminghuzefa">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,java,mysql,bootstrap,c,git,github,vscode" />
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux" />
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-| Project | Tech Stack | Description |
-|-------|-----------|-------------|
-| 🛒 **E-Commerce App** | React, Node, MongoDB | Full-stack shopping app with auth & cart |
-| 📊 **Dashboard UI** | React, Chart.js | Responsive admin dashboard |
-| 🌐 **Portfolio Website** | React, Tailwind | Personal portfolio with modern UI |
-
-> *(More projects coming soon 🚀)*
+| Project                     | Description                                                          |
+| --------------------------- | -------------------------------------------------------------------- |
+| 🚚 Group Logistics          | Business logistics platform with modern UI and scalable architecture |
+| 💊 Rehalis Healthcare       | Healthcare website focused on accessibility and user experience      |
+| 💍 Alayaa Jewellery         | E-commerce platform with responsive design and product management    |
+| 🏜️ Desert Ride Tours Dubai | Tourism and booking platform built for customer conversions          |
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 Current Focus
+
+* SaaS Development
+* System Design
+* NestJS & PostgreSQL
+* Prisma ORM
+* AI-Powered Applications
+* Scalable Backend Architecture
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzefa125&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzefa125&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=huzefa125&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzefa125&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak  
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzefa125&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=huzefa125&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huzefa125&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=huzefa125&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
-## 🎯 2025 Goals  
+## 🎯 2026 Goals
 
-- 🚀 Master **Full MERN Stack Development**
-- 🌍 Contribute to **Open-Source Projects**
-- 🧠 Learn **TypeScript & Next.js**
-- 📱 Build **3 production-ready applications**
-- 💼 Launch a **personal portfolio website**
+* 🚀 Build Production-Grade SaaS Products
+* 🌍 Contribute to Open Source
+* ⚡ Master NestJS & PostgreSQL
+* 🤖 Develop AI-Powered Applications
+* 💼 Scale Freelance & Client Projects
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Thanks+for+visiting!+🚀;Open+to+collaboration+and+learning!+💻" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
